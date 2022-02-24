@@ -1,0 +1,21 @@
+*{transition:all 0.3s ease-in-out;}
+
+.container{
+  clear:both;
+  overflow:auto;
+}
+
+nav{float:right;}
+
+.logo img{float:left;}
+
+ul li{
+  display: inline-block; padding: 1px 50px 15px 58px;
+  font-size:40px; font-family:raleway;
+  background-color:green;
+}
+
+ul li:hover{
+  color:red;
+  
+}
